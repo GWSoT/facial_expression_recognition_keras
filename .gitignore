@@ -1,0 +1,5 @@
+.vscode/*
+.vscode
+.ipynb_checkpoints/*
+start/*
+haarcascade_frontalface_default.xml
